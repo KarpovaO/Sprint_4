@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class TestUserData {
     private static final UserInfo[] USER_INFOS = {
             new UserInfo("Иван", "Иванов", "г. Москва, ул. Петрова, д.1", "1", "79138098111"),

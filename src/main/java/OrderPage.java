@@ -5,6 +5,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
+
 public class OrderPage extends BasePage {
     //Локаторы 1 панель
     public static final By NAME_INPUT = By.xpath("(//input[@placeholder='* Имя'])[1]");

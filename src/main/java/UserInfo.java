@@ -1,3 +1,4 @@
+
 public class UserInfo {
     private String name;
     private String surname;

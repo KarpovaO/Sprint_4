@@ -1,3 +1,4 @@
+
 public class QuestionAnswerData {
     private final static String[] answers = {
             "Сутки — 400 рублей. Оплата курьеру — наличными или картой.",
