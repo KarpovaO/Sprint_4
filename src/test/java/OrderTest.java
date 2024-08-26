@@ -1,5 +1,4 @@
 import org.junit.Test;
-
 public class OrderTest extends BaseTest {
 
     @Test
