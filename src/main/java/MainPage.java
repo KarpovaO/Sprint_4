@@ -1,7 +1,6 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-
 public class MainPage extends BasePage {
     public static final By BUTTON_ORDER_TOP = By.xpath("//button[@class='Button_Button__ra12g']");
     public static final By BUTTON_ORDER_BOTTOM = By.xpath("//button[@class='Button_Button__ra12g Button_Middle__1CSJM']");
